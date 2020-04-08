@@ -16,6 +16,6 @@
 
 展示如下：
 
-![content](2\1.png)
+![content](2/1.png)
 
-![content](2\2.png)
+![content](2/2.png)
